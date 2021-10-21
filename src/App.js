@@ -45,9 +45,9 @@ const App = () => {
             level={5}
             style={{ color: "white", textAlign: "center" }}
           >
-            Copyright © 2021 <br />
-            <Link to="/">CryptoPlatform Inc.</Link> <br />
-            All Rights Reserved.
+            October 2021 <br />
+            <Link to="/">CryptoPlatform.</Link> <br />
+            Artus_U
           </Typography.Title>
           <Space>
             <Link to="/">Home</Link>
